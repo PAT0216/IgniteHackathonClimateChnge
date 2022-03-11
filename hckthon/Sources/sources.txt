@@ -1,0 +1,9 @@
+Source for Energy sources by country:
+http://wdi.worldbank.org/table/3.7
+
+Source for amount of CO2 produced per KWh for different energy sources:
+https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources	
+
+Source for KG of CO2 eliminated per tree:
+https://www.viessmann.co.uk/heating-advice/how-much-co2-does-tree-absorb
+

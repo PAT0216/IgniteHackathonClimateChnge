@@ -1,0 +1,68 @@
+html
+{
+font-family: Source Sans Pro, sans serif;
+background-color:#deb887;
+}
+
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #ffebcd;
+   color: black;
+   text-align: center;
+}
+
+.num
+{
+	width: 5ch;
+}
+
+.power
+{
+	width: 7ch;
+	text-align: right;
+}
+
+.fieldSet
+{
+	display:inline-block;
+}
+
+table
+{
+	border: 2px solid black;
+}
+
+th,td
+{
+	border-bottom: 1px solid #DDD;
+}
+
+tr:hover
+{
+	background-color: #fff8dc !important;
+}
+
+tr:nth-child(even) 
+{
+	background-color: #deb887;
+}
+
+select 
+{
+    width: 20ch;
+    padding: 4px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #fff8dc;
+}
+
+input
+{
+    border: 1px solid black;
+    border-radius: 4px;
+	padding: 3px;
+   background-color:#fff8dc;
+}
